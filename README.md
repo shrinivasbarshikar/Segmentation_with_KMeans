@@ -1,7 +1,8 @@
 # Segmentation_with_KMeans_Clustering
 
 ### Overview
-#### This project performs a K-Means clustering analysis on raw census data of Bihar, India, to segment regions based on the percentage of households with electricity and televisions. The goal is to identify factors that influence television ownership in different areas. The K-Means clustering method is used to group districts or blocks with similar patterns of household electricity access and television ownership, providing insights into what drives television ownership across Bihar.
+#### This project performs a K-Means clustering analysis on raw census data of Bihar, India, to segment regions based on the percentage of households with electricity and televisions. The goal is to identify factors that influence television ownership in different areas. 
+#### The K-Means clustering method is used to group districts or blocks with similar patterns of household electricity access and television ownership, providing insights into what drives television ownership across Bihar.
 
 ### How K-Means Clustering Works
 Initialize Centroids: Choose K initial centroids randomly or based on some heuristic (e.g., K-Means++).
